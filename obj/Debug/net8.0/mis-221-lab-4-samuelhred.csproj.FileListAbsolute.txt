@@ -1,0 +1,15 @@
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/bin/Debug/net8.0/mis-221-lab-4-samuelhred
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/bin/Debug/net8.0/mis-221-lab-4-samuelhred.deps.json
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/bin/Debug/net8.0/mis-221-lab-4-samuelhred.runtimeconfig.json
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/bin/Debug/net8.0/mis-221-lab-4-samuelhred.dll
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/bin/Debug/net8.0/mis-221-lab-4-samuelhred.pdb
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/obj/Debug/net8.0/mis-221-lab-4-samuelhred.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/obj/Debug/net8.0/mis-221-lab-4-samuelhred.AssemblyInfoInputs.cache
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/obj/Debug/net8.0/mis-221-lab-4-samuelhred.AssemblyInfo.cs
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/obj/Debug/net8.0/mis-221-lab-4-samuelhred.csproj.CoreCompileInputs.cache
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/obj/Debug/net8.0/mis-221-lab-4-samuelhred.sourcelink.json
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/obj/Debug/net8.0/mis-221-lab-4-samuelhred.dll
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/obj/Debug/net8.0/refint/mis-221-lab-4-samuelhred.dll
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/obj/Debug/net8.0/mis-221-lab-4-samuelhred.pdb
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/obj/Debug/net8.0/mis-221-lab-4-samuelhred.genruntimeconfig.cache
+/Users/samredelsheimer/Desktop/VS_CODE/221/lab4/mis-221-lab-4-samuelhred/obj/Debug/net8.0/ref/mis-221-lab-4-samuelhred.dll
